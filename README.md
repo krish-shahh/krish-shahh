@@ -19,7 +19,7 @@ Hi, my Name is Krish Shah and I am a rising Senior at Northern Burlington High S
 <i>NOTE: Top Languages doesn't indicate my proficiency, rather, it's a GitHub metric of my most-used languages.</i>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-shahh&theme=radical&hide=Dockerfile,Ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-shahh&theme=radical&hide=Dockerfile,Ruby" />
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
