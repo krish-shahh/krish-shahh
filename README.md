@@ -5,6 +5,7 @@ Hi, my Name is Krish Shah and I am a rising Senior at Northern Burlington High S
 - 🔭 I'm currently working on [NBCRobotics](https://nbcrobotics.github.io), a website for my high school robotics team that will showcase our season journey, robot, and team members.
 - 🔭 In addition to working on the [NBCRobotics Website](https://nbcrobotics.github.io), I am also writing the [NBCRobotics Blog](https://nbcrobotics.github.io/blog/).
 - 💼 I'm currently working as a Information Technology Intern at Miles Technologies. I will also be interning as a Data Analytics and Machine Learning Intern for Princeton Equity Group and as a Research Intern for the Princeton Plasma Physics Laboratory during the fall of my Senior Year.
+- 💻 Check out my [Personal Portfolio + Blog](https://krish-shah.vercel.app/)
 - 📫 How to reach me: [email](mailto:2003kshah@gmail.com)
 
 #### Languages, Tools, and Frameworks
