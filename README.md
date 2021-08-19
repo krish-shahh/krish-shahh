@@ -8,6 +8,7 @@ Hi, my Name is Krish Shah and I am a rising Senior at Northern Burlington High S
 - 💻 Check out my [Personal Portfolio + Blog](https://krish-shah.vercel.app/)
 - 💻 Check out my [Cooking Blog](https://krish-shahh.github.io/cooking-blog/)
 - 📫 How to reach me: [email](mailto:2003kshah@gmail.com)
+- 🏀 Check out my [Web-Based Basketball Game](https://basketball-game-alpha.vercel.app/)
 
 #### Languages, Tools, and Frameworks
 
