@@ -7,8 +7,8 @@ Hi, my Name is Krish Shah and I am a rising Senior at Northern Burlington High S
 - 💼 I'm currently working as a Information Technology Intern at Miles Technologies. I will also be interning as a Research Intern for the Princeton Plasma Physics Laboratory during the fall of my Senior Year.
 - 💻 Check out my [Personal Portfolio + Blog](https://krish-shah.vercel.app/)
 - 💻 Check out my [Cooking Blog](https://krish-shahh.github.io/cooking-blog/)
-- 📫 How to reach me: [email](mailto:2003kshah@gmail.com)
 - 🏀 Check out my [Web-Based Basketball Game](https://basketball-game-alpha.vercel.app/)
+- 📫 How to reach me: [email](mailto:2003kshah@gmail.com)
 
 #### Languages, Tools, and Frameworks
 
