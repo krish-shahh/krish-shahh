@@ -4,7 +4,7 @@ Hi, my Name is Krish Shah and I am a rising Senior at Northern Burlington High S
 
 - 🔭 I'm currently working on [NBCRobotics](https://nbcrobotics.github.io), a website for my high school robotics team that will showcase our season journey, robot, and team members. I am also writing the [NBCRobotics Blog](https://nbcrobotics.github.io/blog/).
 - 🔭 I'm also working on [Shoot Your Shot 😉](https://github.com/krish-shahh/BasketballGame) a web-based game for in order to play basketball with the comfort with sitting in bed with your laptop. This website is not mobile friendly yet but that is being worked on. I am also planning to create a duplicate version of this game that helps children study math while playing basketball. 
-- 💼 I'm currently working as a Information Technology Intern at Miles Technologies. I will also be interning as an Intern for the Princeton Plasma Physics Laboratory and as a Software Engineering Intern for The Zone during the fall of my Senior Year.
+- 💼 I'm currently working as a Research Intern for the Princeton Plasma Physics Laboratory working on the Cori Supercomputer with Dr. Ralph Kube. I am also working as a Software Engineering Intern for [The Zone](https://www.itsthezone.com/). Before these internships, I was an Information Technology Intern/Associate at [Miles Technologies](https://www.milestechnologies.com/).
 - 💻 Check out my [Personal Portfolio + Blog](https://krish-shah.vercel.app/) and [Cooking Blog](https://krish-shahh.github.io/cooking-blog/)
 - 🏀 Check out my [Web-Based Basketball Game](https://basketball-game-alpha.vercel.app/)
 - 📫 How to reach me: [email](mailto:2003kshah@gmail.com)
