@@ -1,6 +1,6 @@
 ### Hi there, I'm Krish! 👋
 
-Hi, my Name is Krish Shah and I am a rising Senior at Northern Burlington High School
+Hi, my Name is Krish Shah and I am a Senior at Northern Burlington High School
 
 - 🔭 I'm currently working on [NBCRobotics](https://nbcrobotics.github.io), a website for my high school robotics team that will showcase our season journey, robot, and team members. I am also writing the [NBCRobotics Blog](https://nbcrobotics.github.io/blog/).
 - 🏀 I'm also working on [Shoot Your Shot](https://github.com/krish-shahh/BasketballGame) a web-based game for in order to play basketball with the comfort with sitting in bed with your laptop. This website is not mobile friendly yet but that is being worked on. I am also planning to create a duplicate version of this game that helps children study math while playing basketball. 
