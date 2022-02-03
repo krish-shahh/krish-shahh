@@ -32,6 +32,6 @@ Hi, my Name is Krish Shah and I am a Senior at Northern Burlington High School
 <a href="https://github.com/NBCRobotics/nbcrobotics.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBCRobotics&repo=nbcrobotics.github.io&theme=radical" />
 </a>
-<a href="https://github.com/krish-shahh/Kaleidoscope">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=Kaleidoscope&theme=radical" />
+<a href="https://github.com/krish-shahh/Wordl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=Wordl&theme=radical" />
 </a>
