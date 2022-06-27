@@ -1,37 +1,48 @@
-### Hi there, I'm Krish! 👋
+## 👋 Hi I'm Krish
 
-Hi, my Name is Krish Shah and I am a Senior at Northern Burlington High School
+I am a computer engineering student living in Boston, MA.
 
-- 🔭 I'm currently working on [NBCRobotics](https://nbcrobotics.github.io), a website for my high school robotics team that will showcase our season journey, robot, and team members. I am also writing the [NBCRobotics Blog](https://nbcrobotics.github.io/blog/).
-- 🏀 I'm also working on [Shoot Your Shot](https://github.com/krish-shahh/BasketballGame) a web-based game for in order to play basketball with the comfort with sitting in bed with your laptop. This website is not mobile friendly yet but that is being worked on. I am also planning to create a duplicate version of this game that helps children study math while playing basketball. 
-- 💼 I'm currently working as a Research Intern for the [Princeton Plasma Physics Laboratory](https://www.pppl.gov/) working on the Cori Supercomputer with Dr. Ralph Kube. I am also working as a Software Engineering Intern for [The Zone](https://www.itsthezone.com/). Before these internships, I was an Information Technology Intern/Associate at [Miles Technologies](https://www.milestechnologies.com/).
-<!---
- 💻 Check out my [Personal Portfolio + Blog](https://krish-shah.vercel.app/) and [Cooking Blog](https://krish-shahh.github.io/cooking-blog/)
--->
-- 📫 How to reach me: [email](mailto:2003kshah@gmail.com)
+Currently working @ [The Zone](https://itsthezone.com) & [Princeton Equity Group](https://princetonequity.com)
 
-#### Languages, Tools, and Frameworks
+My current side-project is a online resource for addicts called [ReCover](https://recover-addiction.vercel.app). Made using HTML, CSS, JavaScript, and Firebase (but I plan to convert the site to React)
 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+### Technologies
+<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="Rust logo" title="Rust" height="28" />  
+<img src="https://img.shields.io/badge/Python-282C34?logo=Python&style=for-the-badge&logoColor=3776AB&link=https://github.com/Hougesen?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" />  
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="TypeScript logo" title="TypeScript" height="28" />  
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="JavaScript logo" title="JavaScript" height="28" />  
+<img src="https://img.shields.io/badge/c++-%23282C34.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=cpp&sort=" alt="C++ logo" title="C++" height="28" /> 
+<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&style=for-the-badge&logoColor=239120&link=https://github.com/Hougesen?tab=repositories&q=csharp&type=&language=&sort=" alt="C Sharp logo" title="C#" height="28" />  
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="Node.js logo" title="Node.js" height="28" />  
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="Express.js logo" title="Express.js" height="28" />  
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=vue&sort=" alt="Vue.js logo" title="Vue.js" height="28" />  
+<img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxtdotjs&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=nuxt&type=&language=&sort=" alt="Nuxt.js logo" title="Nuxt.js" height="28" />  
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="28" />  
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" height="28" />  
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=&sort=" alt="Docker logo" title="Docker" height="28" />  
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" /> 
 
-<i>NOTE: Top Languages doesn't indicate my proficiency, rather, it's a GitHub metric of my most-used languages.</i>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-shahh&theme=radical&hide=Dockerfile,Ruby" />
-</a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-shahh&show_icons=true&theme=radical&count_private=true" />
-</a>
--->
-<a href="https://github.com/NBCRobotics/nbcrobotics.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NBCRobotics&repo=nbcrobotics.github.io&theme=radical" />
-</a>
-<a href="https://github.com/krish-shahh/Wordl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=Wordl&theme=radical" />
-</a>
+### Useful Links
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://krish-shah.vercel.app/)](https://krish-shah.vercel.app)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282C34?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/krish-n-shah/)](https://www.linkedin.com/in/krish-n-shah/)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-282C34?style=for-the-badge&logo=Twitter&link=https://twitter.com/Krish_Shahh/)](https://twitter.com/Krish_Shahh/)  
+[![Behance Badge](https://img.shields.io/badge/-Instagram-282C34?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/krish.shahh/)](https://www.instagram.com/krish.shahh/)  
+
+### This week I have been doing:
+
+<!--START_SECTION:waka-->
+
+```text
+From: 19 June 2022 - To: 26 June 2022
+
+Vue.js                       ███████▓░░░░░░░░░░░░░░░░░   30.49 %
+TypeScript                   █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+Python                       █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+JavaScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+C++                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+```
+
+<!--END_SECTION:waka-->
