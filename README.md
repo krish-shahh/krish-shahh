@@ -29,20 +29,3 @@ My current side-project is a online resource for addicts called [ReCover](https:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282C34?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/krish-n-shah/)](https://www.linkedin.com/in/krish-n-shah/)  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-282C34?style=for-the-badge&logo=Twitter&link=https://twitter.com/Krish_Shahh/)](https://twitter.com/Krish_Shahh/)  
 [![Behance Badge](https://img.shields.io/badge/-Instagram-282C34?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/krish.shahh/)](https://www.instagram.com/krish.shahh/)  
-
-### This week I have been doing:
-
-<!--START_SECTION:waka-->
-
-```text
-From: 19 June 2022 - To: 26 June 2022
-
-Vue.js                       ███████▓░░░░░░░░░░░░░░░░░   30.49 %
-TypeScript                   █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Python                       █████░░░░░░░░░░░░░░░░░░░░   20.30 %
-JavaScript                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-C++                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-```
-
-<!--END_SECTION:waka-->
