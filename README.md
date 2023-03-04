@@ -2,9 +2,7 @@
 
 I am a computer engineering student living in Boston, MA.
 
-Currently working @ [The Zone](https://itsthezone.com) & [Princeton Equity Group](https://princetonequity.com)
-
-My current side-project is a online resource for addicts called [ReCover](https://recover-addiction.vercel.app). Made using HTML, CSS, JavaScript, and Firebase (but I plan to convert the site to React)
+My current side-project is a online resource for addicts called [ReCover](https://recover-dev.netlify.app). 
 
 ### Technologies
 <img src="https://img.shields.io/badge/Rust-282C34?logo=rust&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=typescript&type=&language=&sort=" alt="Rust logo" title="Rust" height="28" />  
