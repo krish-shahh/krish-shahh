@@ -28,4 +28,6 @@ My current side-project is a online resource for addicts called [ReCover](https:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-282C34?style=for-the-badge&logo=Twitter&link=https://twitter.com/Krish_Shahh/)](https://twitter.com/Krish_Shahh/)  
 [![Behance Badge](https://img.shields.io/badge/-Instagram-282C34?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/krish.shahh/)](https://www.instagram.com/krish.shahh/) 
 
-https://github-readme-stats.vercel.app/api?username=krish-shahh&theme=dark
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krish-shahh&theme=dark" alt="My Stats"/>
+</p>
