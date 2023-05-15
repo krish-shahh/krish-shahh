@@ -26,4 +26,6 @@ My current side-project is a online resource for addicts called [ReCover](https:
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-282C34?&style=for-the-badge&logo=node-js&logoColor=white&link=https://krish-shah.vercel.app/)](https://krish-shah.vercel.app)  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-282C34?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/krish-n-shah/)](https://www.linkedin.com/in/krish-n-shah/)  
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-282C34?style=for-the-badge&logo=Twitter&link=https://twitter.com/Krish_Shahh/)](https://twitter.com/Krish_Shahh/)  
-[![Behance Badge](https://img.shields.io/badge/-Instagram-282C34?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/krish.shahh/)](https://www.instagram.com/krish.shahh/)  
+[![Behance Badge](https://img.shields.io/badge/-Instagram-282C34?style=for-the-badge&logo=Instagram&link=https://www.instagram.com/krish.shahh/)](https://www.instagram.com/krish.shahh/) 
+
+https://github-readme-stats.vercel.app/api?username=krish-shahh&theme=dark
