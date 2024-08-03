@@ -38,7 +38,7 @@
 - 1% Acceptance Rate for Citadel Summer 2024 Datathon
 
 ## 📊 GitHub Stats
-![Krish's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=krish-shahh&show_icons=true&theme=radical\&layout=compact)
+![Krish's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=krish-shahh&show_icons=true&theme=radical)
 [![Krish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishshahh\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
