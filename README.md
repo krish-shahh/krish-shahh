@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 ![Krish's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=krish-shahh&show_icons=true&theme=radical)
-[![Krish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krish_shahh)](https://github.com/anuraghazra/github-readme-stats)
+[![Krish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishshahh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-shahh&show_icons=true&theme=radical)
