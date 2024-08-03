@@ -21,7 +21,7 @@
 - **Software Engineering Intern** at Princeton Plasma Physics Laboratory (Sep 2021 - Jan 2022)
 
 ## 🛠️ Projects
-- **SeekNook (Startup)** - Founder & Lead Engineer
+- **[SeekNook](https://seeknook-new.vercel.app/) (Startup)** - Founder & Lead Engineer
 - **Citadel Summer 2024 Datathon** - Team Lead & Lead Data Modeler
 
 ## 🏆 Achievements
