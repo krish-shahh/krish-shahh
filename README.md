@@ -5,8 +5,8 @@
 
 ## 🎓 Education
 - **Boston University** (Sep 2022 - May 2025)
-  - B.S. in Computer Engineering
-  - Concentration in Machine Learning
+  - B.S. in **Computer Engineering**
+  - Concentration in **Machine Learning**
   - College of Engineering FIRST Robotics Scholarship Recipient
 
 ## 💻 Skills
