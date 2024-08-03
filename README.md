@@ -7,7 +7,7 @@
 - **Boston University** (Sep 2022 - May 2025)
   - B.S. in **Computer Engineering**
   - Concentration in **Machine Learning**
-  - College of Engineering FIRST Robotics Scholarship Recipient
+  - College of Engineering FIRST Robotics Presidential Scholarship Recipient
 
 ## 💻 Skills
 - **Languages:** Python, C++, Java, JavaScript, SQL, MATLAB
