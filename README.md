@@ -25,7 +25,7 @@
   - Next.js-based online platform connecting 5,000+ users with local services
   - Generated $15,000 annual revenue and improved service discovery efficiency by 40%
 
-- **[SyllabaAI](https://syllabai-dev.vercel.app/) (Startup)** - Founder
+- **[SyllabAI](https://syllabai-dev.vercel.app/) (Startup)** - Founder
   - AI-powered platform for students to manage academic workload
   - Features include AI syllabus parsing, course management, grade tracking, task organization, and calendar integration
 
