@@ -1,11 +1,7 @@
-# Hi there, I'm Krish Shah 👋
+# Hey, I'm Krish 👋
 
-<a href="https://linkedin.com/in/krish-n-shah" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-</a>
-<a href="mailto:kshah26@bu.edu" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-red" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/krish-n-shah)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:kshah26@bu.edu)
 
 ## 🎓 Education
 - **Boston University** (Sep 2022 - May 2025)
