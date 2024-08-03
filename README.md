@@ -31,9 +31,11 @@
 ## 📊 GitHub Stats
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-shahh&show_icons=true&theme=radical)
 
-<> ## 🌟 Featured Repositories
-<> [![SeekNook](https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=seeknook)](https://github.com/krish-shahh/seeknook)
-<> [![Citadel Datathon](https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=citadel-datathon-2024)](https://github.com/krish-shahh/citadel-datathon-2024)
+<!---
+## 🌟 Featured Repositories
+[![SeekNook](https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=seeknook)](https://github.com/krish-shahh/seeknook)
+[![Citadel Datathon](https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=citadel-datathon-2024)](https://github.com/krish-shahh/citadel-datathon-2024)
+-->
 
 ## 📫 How to reach me
 - LinkedIn: [krish-n-shah](https://linkedin.com/in/krish-n-shah)
