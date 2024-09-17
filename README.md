@@ -16,7 +16,7 @@
 
 ## 🚀 Experience
 - **Machine Learning Intern** at Kolachalama Laboratory (Apr 2024 - Present)
-- **Software Engineering Intern** at Beacon Platform Inc (May 2023 - Sep 2024)
+- **Financial Engineering Intern** at Beacon Platform Inc (May 2023 - Sep 2024)
 - **Data Engineering Intern** at Princeton Equity Group (Jan 2022 - Sep 2022)
 - **Software Engineering Intern** at Princeton Plasma Physics Laboratory (Sep 2021 - Jan 2022)
 
