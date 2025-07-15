@@ -65,8 +65,6 @@
 
 * **Recipient**, *FIRST Robotics Presidential Scholarship*, Boston University
 
-* **Finalist**, *Boston University Capstone Showcase* – Presented AI-powered Snowflake automation project built in collaboration with State Street using Liquibase, Harness, and CI/CD best practices.
-
 ---
 
 ## 📊 GitHub Stats
