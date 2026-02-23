@@ -3,11 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/krish-n-shah)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:2003kshah@gmail.com)
 
----
 
+<!---
 ## 📊 GitHub Stats
 ![Krish's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=krish-shahh&show_icons=true&theme=radical)
 [![Krish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishshahh\&layout=compact\&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!---
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-shahh&show_icons=true&theme=radical)
