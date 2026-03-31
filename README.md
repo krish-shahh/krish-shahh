@@ -1,23 +1,21 @@
-# Hey, I'm Krish 👋
+# Krish Shah
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/krish-n-shah)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:2003kshah@gmail.com)
+Solutions Engineer at Clearwater Analytics. I build analytics platforms and underlying systems for institutional financial workflows, including GenAI-enabled features. Background in financial engineering, machine learning, and systems development.
 
+Currently pursuing an M.S. in Computer Science at Georgia Tech (Computing Systems). B.S. in Computer Engineering from Boston University.
 
-<!---
-## 📊 GitHub Stats
-![Krish's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=krish-shahh&show_icons=true&theme=radical)
-[![Krish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krishshahh\&layout=compact\&langs_count=14)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
 
-<!---
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-shahh&show_icons=true&theme=radical)
--->
+## Tech Stack
 
-<!---
-## 🌟 Featured Repositories
-[![SeekNook](https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=seeknook)](https://github.com/krish-shahh/seeknook)
-[![Citadel Datathon](https://github-readme-stats.vercel.app/api/pin/?username=krish-shahh&repo=citadel-datathon-2024)](https://github.com/krish-shahh/citadel-datathon-2024)
--->
+**Languages:** Python, TypeScript, SQL, C  
+**ML / AI:** PyTorch, scikit-learn, LangChain, RAG pipelines, fine-tuning  
+**Data:** DuckDB, Snowflake, PyArrow, Pandas, NumPy  
+**Infra:** Kubernetes, Docker, Harness, Liquibase, AWS S3  
+**Tools:** Git, Great Expectations, Slack API, Google Drive API  
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
+---
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/krish-n-shah) · [Portfolio](https://krish-shahh.github.io)
