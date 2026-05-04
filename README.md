@@ -2,7 +2,7 @@
 
 Software Engineer at Clearwater Analytics. I build analytics platforms and underlying systems for institutional financial workflows, including GenAI-enabled features. Background in financial engineering, machine learning, and systems development.
 
-Currently pursuing an M.S. in Computer Science at Georgia Tech (Computing Systems). B.S. in Computer Engineering from Boston University.
+Currently pursuing an M.S. in Computer Science at Georgia Tech (Computing Systems). B.S. in Computer Engineering from Boston University (Machine Learning).
 
 ---
 
