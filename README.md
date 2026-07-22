@@ -7,6 +7,4 @@ m.s. cs at [georgia tech](https://www.cc.gatech.edu) · b.s. ce at [boston unive
 <!--
 [portfolio](https://krish-shah.vercel.app/) · [linkedin](https://www.linkedin.com/in/krish-n-shah) · [x](https://x.com/KrishNShahh) · [letterboxd](https://letterboxd.com/krishshahh/)
 -->
-<a href="https://letterboxd.com/krishshahh/" target="_blank" rel="noopener noreferrer">
-  <img src="https://krish-shah.vercel.app/api/letterboxd-readme" alt="My top five films">
-</a>
+[![My top films](https://krish-shah.vercel.app/api/letterboxd-readme?count=7)](https://letterboxd.com/krishshahh/)
